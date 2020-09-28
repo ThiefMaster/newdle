@@ -99,6 +99,7 @@ class Participant(db.Model):
     auth_uid = db.Column(db.String, nullable=True)
     name = db.Column(db.String, nullable=False)
     email = db.Column(db.String, nullable=True)
+    foo = db.Column(db.String, nullable=False, server_default='bar')
     code = db.Column(
         db.String,
         nullable=False,
