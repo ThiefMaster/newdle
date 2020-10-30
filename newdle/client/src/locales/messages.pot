@@ -472,7 +472,7 @@ msgid "{numSlots, plural, one {<0>#</0> slot added} other {<1>#</1> slots added}
 msgstr ""
 
 #: src/components/answer/AnswerPage.js:306
-msgid "{numberOfTimeslots, plural, one {{numberOfAvailable} out of # option chosen} other {{numberOfAvailable} out of # options chosen}}"
+msgid "{numberOfAvailable, plural, one {# option out of {numberOfTimeslots} chosen} other {# options out of {numberOfTimeslots} chosen}}"
 msgstr ""
 
 #: src/components/common/FinalDate.js:12

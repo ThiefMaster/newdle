@@ -304,9 +304,9 @@ export default function AnswerPage() {
             {numberOfAvailable ? (
               <>
                 <Plural
-                  value={numberOfTimeslots}
-                  one={`${numberOfAvailable} out of # option chosen`}
-                  other={`${numberOfAvailable} out of # options chosen`}
+                  value={numberOfAvailable}
+                  one={`# option out of ${numberOfTimeslots} chosen`}
+                  other={`# options out of ${numberOfTimeslots} chosen`}
                 />
               </>
             ) : (
