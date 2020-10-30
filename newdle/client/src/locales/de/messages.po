@@ -1,10 +1,15 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-10-29 17:38+0100\n"
+"PO-Revision-Date: 2020-10-30 09:48+0000\n"
+"Last-Translator: Adrian <adrian@planetcoding.net>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/newdle/client/de/>"
+"\n"
 "Language: de\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: @lingui/cli\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.3.2-dev\n"
 "Mime-Version: 1.0\n"
 
 #: src/components/home/HomeHeader.js:11
@@ -13,7 +18,7 @@ msgstr ""
 
 #: src/components/home/HomePage.js:38
 msgid "<0>newdle</0> will collect the answers!"
-msgstr ""
+msgstr "newdle sammelt die Antworten!"
 
 #: src/components/answer/AnswerPage.js:246
 msgid "Accept all options where I'm available"
@@ -25,7 +30,7 @@ msgstr ""
 
 #: src/components/creation/userSearch/UserSearch.js:62
 msgid "Add participant"
-msgstr ""
+msgstr "Teilnehmer hinzufügen"
 
 #: src/components/creation/FinalStep.js:95
 msgid "Advanced options"
@@ -57,13 +62,13 @@ msgstr ""
 
 #: src/components/creation/timeslots/TimeslotsStep.js:61
 msgid "Back"
-msgstr ""
+msgstr "Zurück"
 
 #: src/components/creation/userSearch/UserSearch.js:136
 #: src/components/login/LoginPrompt.js:45
 #: src/components/summary/SummaryPage.js:165
 msgid "Cancel"
-msgstr ""
+msgstr "Abbrechen"
 
 #: src/components/creation/FinalStep.js:152
 msgid "Change participants"
