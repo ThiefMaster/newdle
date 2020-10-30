@@ -332,7 +332,6 @@ msgstr ""
 "Certains participants n'ont pas d'adresse mail et ne seront pas contactés :"
 
 #: src/components/summary/SummaryPage.js:112
-#, fuzzy
 msgid "Something went wrong when notifying participants:"
 msgstr "Une erreur est advenue lors de la notification des participants :"
 
@@ -424,7 +423,6 @@ msgstr ""
 "souhaitez inviter :"
 
 #: src/components/creation/CreationSuccessPage.js:42
-#, fuzzy
 msgid ""
 "Your newdle was created. You can now send the following link to everyone you "
 "would like to invite:"
