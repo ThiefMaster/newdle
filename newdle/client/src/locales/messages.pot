@@ -370,7 +370,7 @@ msgstr ""
 
 #: src/components/creation/CreationHeader.js:15
 msgid "You can also \"Skip\" this step and simply share the link to your newdle"
-msgstr ""Skip\" this step and simply share the link to your newdle"
+msgstr ""
 
 #: src/components/home/HomeHeader.js:15
 msgid "You can use it to find out the best dates/times for your meetings."
