@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-10-29 17:38+0100\n"
-"PO-Revision-Date: 2020-10-30 14:55+0000\n"
+"PO-Revision-Date: 2020-10-30 15:43+0000\n"
 "Last-Translator: Thomas Baron <thomas.baron@cern.ch>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/newdle/client/fr/>"
 "\n"
@@ -81,15 +81,15 @@ msgstr "Modifier les créneaux horaires"
 
 #: src/components/creation/CreationHeader.js:14
 msgid "Choose the participants"
-msgstr "Sélectionner les participants"
+msgstr "Sélectionnez les participants"
 
 #: src/components/creation/CreationHeader.js:18
 msgid "Choose the time slots"
-msgstr "Sélectionner les créneaux horaires"
+msgstr "Sélectionnez les créneaux horaires"
 
 #: src/components/home/HomePage.js:26
 msgid "Choose your participants"
-msgstr "Sélectionner vos participants"
+msgstr "Sélectionnez vos participants"
 
 #: src/components/creation/timeslots/Timeline.js:277
 msgid "Click to add time slots"
@@ -143,7 +143,7 @@ msgstr ""
 
 #: src/components/creation/CreationSuccessPage.js:31
 msgid "Done!"
-msgstr "Effectué !"
+msgstr "Fini !"
 
 #: src/components/creation/timeslots/DurationPicker.js:53
 msgid "Duration"
@@ -221,7 +221,7 @@ msgstr "Déconnexion"
 
 #: src/components/home/HomePage.js:67
 msgid "Made at <0>CERN</0>, the place where the web was born."
-msgstr "Créer au <0>CERN</0>, là où le web est né."
+msgstr "Créé au <0>CERN</0>, là où le web est né."
 
 #: src/components/creation/userSearch/UserSearchForm.js:10
 msgid "Missing search criteria"
@@ -241,11 +241,11 @@ msgstr "Les newdles auxquels je participe"
 
 #: src/components/creation/ParticipantsStep.js:19
 msgid "Next"
-msgstr "Prochain"
+msgstr "Etape suivante"
 
 #: src/components/creation/timeslots/TimeslotsStep.js:71
 msgid "Next step"
-msgstr "Prochaine étape"
+msgstr "Etape suivante"
 
 #: src/components/answer/Calendar.js:210
 msgid "No data"
@@ -305,7 +305,7 @@ msgstr "Chercher"
 
 #: src/components/summary/SummaryPage.js:241
 msgid "Select final date"
-msgstr "Sélectionner la date finale"
+msgstr "Sélectionnez la date finale"
 
 #: src/components/common/LanguageSelector.js:27
 msgid "Select your language"
@@ -317,7 +317,7 @@ msgstr "Envoyer votre réponse"
 
 #: src/components/home/HomePage.js:32
 msgid "Set the time slots based on their availability"
-msgstr "Choisir les créneaux horaires en fonction de leur disponibilité"
+msgstr "Choisissez les créneaux horaires en fonction de leur disponibilité"
 
 #: src/components/creation/ParticipantsStep.js:19
 msgid "Skip"
@@ -378,11 +378,11 @@ msgstr "Voir le résumé"
 
 #: src/components/creation/CreationHeader.js:23
 msgid "We are almost there!"
-msgstr "Nous y sommes presque !"
+msgstr "Vous y êtes presque !"
 
 #: src/components/home/HomeHeader.js:8
 msgid "Welcome to newdle!"
-msgstr "Bienvenue à newdle !"
+msgstr "Bienvenue dans newdle !"
 
 #: src/components/answer/AnswerPage.js:52
 msgid "Who are you?"
@@ -402,8 +402,8 @@ msgstr ""
 #: src/components/home/HomeHeader.js:15
 msgid "You can use it to find out the best dates/times for your meetings."
 msgstr ""
-"Vous pouvez l'utiliser pour trouver les meilleures dates/créneaux horaires "
-"pour vos réunions."
+"Utilisez-la pour trouver les meilleures dates/créneaux horaires pour vos "
+"réunions."
 
 #: src/components/login/LoginPrompt.js:40
 msgid "You need to log in to access this page"
@@ -534,8 +534,8 @@ msgid ""
 "{numberOfTimeslots, plural, one {{numberOfAvailable} out of # option chosen} "
 "other {{numberOfAvailable} out of # options chosen}}"
 msgstr ""
-"{numberOfTimeslots, plural, one {{numberOfAvailable} sur # option "
-"sélectionnée} other {{numberOfAvailable} sur # options sélectionnées}}"
+"{numberOfTimeslots, plural, one {{numberOfAvailable} option sur # "
+"sélectionnée} other {{numberOfAvailable} options sur # sélectionnées}}"
 
 #: src/components/common/FinalDate.js:12
 msgid "{title} will take place on:"
