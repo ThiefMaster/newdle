@@ -333,7 +333,6 @@ msgstr ""
 
 #: src/components/summary/SummaryPage.js:112
 #, fuzzy
-#| msgid "Something when wrong when notifying participants:"
 msgid "Something went wrong when notifying participants:"
 msgstr "Une erreur est advenue lors de la notification des participants :"
 
@@ -373,6 +372,10 @@ msgstr "Fuseau horaire"
 #: src/components/answer/AnswerPage.js:335
 msgid "Update your answer"
 msgstr "Modifier votre réponse"
+
+#: src/components/NewdleTitle.js:58
+msgid "View summary"
+msgstr ""
 
 #: src/components/creation/CreationHeader.js:23
 msgid "We are almost there!"
@@ -422,9 +425,6 @@ msgstr ""
 
 #: src/components/creation/CreationSuccessPage.js:42
 #, fuzzy
-#| msgid ""
-#| "Your newdle was created. You can now send the following to everyone you "
-#| "would like to invite:"
 msgid ""
 "Your newdle was created. You can now send the following link to everyone you "
 "would like to invite:"
