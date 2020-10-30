@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-10-29 17:38+0100\n"
-"PO-Revision-Date: 2020-10-30 14:21+0000\n"
+"PO-Revision-Date: 2020-10-30 14:31+0000\n"
 "Last-Translator: Thomas Baron <thomas.baron@cern.ch>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/newdle/client/fr/>"
 "\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #: src/components/home/HomePage.js:38
 msgid "<0>newdle</0> will collect the answers!"
-msgstr "<0>newdle</0> collectera les réponses!"
+msgstr "<0>newdle</0> collectera les réponses !"
 
 #: src/components/answer/AnswerPage.js:246
 msgid "Accept all options where I'm available"
@@ -47,11 +47,11 @@ msgstr "Répondre au newdle"
 
 #: src/components/answer/AnswerPage.js:74
 msgid "Answering on behalf of:"
-msgstr "Répondre à la place de:"
+msgstr "Répondre à la place de :"
 
 #: src/components/UnloadPrompt.js:8
 msgid "Are you sure you want to leave this page without saving?"
-msgstr "Voulez-vous vraiment quitter cette page sans sauvegarder?"
+msgstr "Voulez-vous vraiment quitter cette page sans sauvegarder ?"
 
 #: src/components/creation/FinalStep.js:70
 msgid "Attention"
@@ -102,7 +102,7 @@ msgstr "Confirmer"
 
 #: src/components/creation/CreationSuccessPage.js:59
 msgid "Copied!"
-msgstr "Copié!"
+msgstr "Copié !"
 
 #: src/components/creation/timeslots/Timeline.js:282
 msgid "Copy time slots from previous day"
@@ -118,11 +118,11 @@ msgstr "Créer un événement"
 
 #: src/components/MyNewdles.js:46
 msgid "Create your first newdle!"
-msgstr "Créez votre premier newdle!"
+msgstr "Créez votre premier newdle !"
 
 #: src/components/creation/FinalStep.js:138
 msgid "Create your newdle!"
-msgstr "Créez votre newdle!"
+msgstr "Créez votre newdle !"
 
 #: src/components/summary/SummaryPage.js:308
 msgid "Delete newdle"
@@ -136,12 +136,12 @@ msgstr "Supprimer ce newdle"
 #: src/components/summary/SummaryPage.js:264
 msgid "Do you really wish to delete this newdle? Please be aware that <0>this action cannot be undone.</0>"
 msgstr ""
-"Voulez-vous vraiment supprimer ce newdle? Veuillez noter que cette action "
+"Voulez-vous vraiment supprimer ce newdle ? Veuillez noter que cette action "
 "<0>ne peut pas être annulée.</0>"
 
 #: src/components/creation/CreationSuccessPage.js:31
 msgid "Done!"
-msgstr "Effectué!"
+msgstr "Effectué !"
 
 #: src/components/creation/timeslots/DurationPicker.js:53
 msgid "Duration"
@@ -170,11 +170,11 @@ msgstr "Commencer"
 
 #: src/components/creation/CreationSuccessPage.js:77
 msgid "Go to newdle summary!"
-msgstr "Aller au résumé du newdle"
+msgstr "Aller au résumé du newdle !"
 
 #: src/components/home/HomePage.js:20
 msgid "How does it work?"
-msgstr "Comment ça marche?"
+msgstr "Comment ça marche ?"
 
 #: src/components/answer/AnswerPage.js:205
 msgid "It is not possible to answer this newdle anymore."
@@ -321,7 +321,7 @@ msgstr "Passer"
 #: src/components/summary/SummaryPage.js:287
 msgid "Some of your participants do not have e-mail addresses and will not be contacted:"
 msgstr ""
-"Certains participants n'ont pas d'adresse mail et ne seront pas contactés:"
+"Certains participants n'ont pas d'adresse mail et ne seront pas contactés :"
 
 #: src/components/summary/SummaryPage.js:112
 msgid "Something when wrong when notifying participants:"
@@ -329,7 +329,7 @@ msgstr "Une erreur est advenue lors de la notification des participants :"
 
 #: src/components/summary/SummaryPage.js:221
 msgid "The following participants have not voted yet:"
-msgstr "Les participants suivants n'ont pas encore voté:"
+msgstr "Les participants suivants n'ont pas encore voté :"
 
 #: src/components/summary/SummaryPage.js:120
 msgid "The participants have been notified of the final date."
