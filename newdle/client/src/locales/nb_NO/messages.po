@@ -6,11 +6,11 @@ msgstr ""
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/newdle/"
 "client/nb_NO/>\n"
 "Language: nb_NO\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.3.2-dev\n"
-"Mime-Version: 1.0\n"
 
 #: src/components/home/HomeHeader.js:11
 msgid "<0>newdle</0> is a collective meeting scheduling application."
@@ -133,7 +133,9 @@ msgid "Delete this newdle"
 msgstr "Slett denne newdle-en"
 
 #: src/components/summary/SummaryPage.js:264
-msgid "Do you really wish to delete this newdle? Please be aware that <0>this action cannot be undone.</0>"
+msgid ""
+"Do you really wish to delete this newdle? Please be aware that <0>this "
+"action cannot be undone.</0>"
 msgstr ""
 "Ønsker du virkelig å slette denne newdle-en for godt? Husk at dette <0>ikke "
 "kan angres.</0>."
@@ -265,7 +267,9 @@ msgid "Nobody has voted yet."
 msgstr "Ingen har stemt enda."
 
 #: src/components/summary/SummaryPage.js:124
-msgid "Note that some of your participants did not provide an email address and thus could not be notified!"
+msgid ""
+"Note that some of your participants did not provide an email address and "
+"thus could not be notified!"
 msgstr ""
 
 #: src/components/creation/FinalStep.js:116
@@ -273,7 +277,9 @@ msgid "Notify me about new answers"
 msgstr ""
 
 #: src/components/creation/FinalStep.js:82
-msgid "Once the newdle is created, you will be shown a link which you need to send to anyone you wish to invite."
+msgid ""
+"Once the newdle is created, you will be shown a link which you need to send "
+"to anyone you wish to invite."
 msgstr ""
 
 #: src/components/creation/FinalStep.js:57
@@ -314,11 +320,13 @@ msgstr "Hopp over"
 
 #: src/components/summary/SummaryPage.js:144
 #: src/components/summary/SummaryPage.js:287
-msgid "Some of your participants do not have e-mail addresses and will not be contacted:"
+msgid ""
+"Some of your participants do not have e-mail addresses and will not be "
+"contacted:"
 msgstr ""
 
 #: src/components/summary/SummaryPage.js:112
-msgid "Something when wrong when notifying participants:"
+msgid "Something went wrong when notifying participants:"
 msgstr ""
 
 #: src/components/summary/SummaryPage.js:221
@@ -329,8 +337,7 @@ msgstr ""
 msgid "The participants have been notified of the final date."
 msgstr ""
 
-#: src/components/MyNewdles.js:105
-#: src/components/ParticipantTable.js:90
+#: src/components/MyNewdles.js:105 src/components/ParticipantTable.js:90
 msgid "There are no participants yet."
 msgstr ""
 
@@ -338,8 +345,7 @@ msgstr ""
 msgid "They will be presented as options to the participants"
 msgstr ""
 
-#: src/components/NewdleTitle.js:44
-#: src/components/answer/AnswerPage.js:204
+#: src/components/NewdleTitle.js:44 src/components/answer/AnswerPage.js:204
 msgid "This newdle has already finished"
 msgstr ""
 
@@ -377,7 +383,8 @@ msgid "You are not part of any newdles yet."
 msgstr ""
 
 #: src/components/creation/CreationHeader.js:15
-msgid "You can also \"Skip\" this step and simply share the link to your newdle"
+msgid ""
+"You can also \"Skip\" this step and simply share the link to your newdle"
 msgstr ""
 
 #: src/components/home/HomeHeader.js:15
@@ -393,15 +400,22 @@ msgid "Your answer has been saved!"
 msgstr ""
 
 #: src/components/creation/CreationSuccessPage.js:35
-msgid "Your newdle was created and invitation e-mails have been sent. You can send the following link to everyone you would like to invite:"
+msgid ""
+"Your newdle was created and invitation e-mails have been sent. You can send "
+"the following link to everyone you would like to invite:"
 msgstr ""
 
 #: src/components/creation/CreationSuccessPage.js:42
-msgid "Your newdle was created. You can now send the following to everyone you would like to invite:"
+msgid ""
+"Your newdle was created. You can now send the following link to everyone you "
+"would like to invite:"
 msgstr ""
 
 #: src/components/creation/FinalStep.js:74
-msgid "Your participants will receive an e-mail asking them to register to their preference. Once the newdle is created, you will be shown a link you can share with anyone else you wish to invite."
+msgid ""
+"Your participants will receive an e-mail asking them to register to their "
+"preference. Once the newdle is created, you will be shown a link you can "
+"share with anyone else you wish to invite."
 msgstr ""
 
 #: src/components/login/LoginPrompt.js:25
@@ -412,8 +426,7 @@ msgstr ""
 msgid "by {author}"
 msgstr "av {author}"
 
-#: src/components/MyNewdles.js:83
-#: src/components/NewdlesParticipating.js:83
+#: src/components/MyNewdles.js:83 src/components/NewdlesParticipating.js:83
 msgid "finished"
 msgstr "fullført"
 
@@ -425,8 +438,7 @@ msgstr "newdle er fri programvare"
 msgid "newdle logo"
 msgstr "newdle-logo"
 
-#: src/components/MyNewdles.js:83
-#: src/components/NewdlesParticipating.js:83
+#: src/components/MyNewdles.js:83 src/components/NewdlesParticipating.js:83
 msgid "ongoing"
 msgstr "pågår"
 
@@ -439,20 +451,25 @@ msgid "switch back to the <0>{defaultUserTz}</0> timezone"
 msgstr "switch back to the <0>{defaultUserTz}</0> timezone"
 
 #: src/components/summary/SummaryPage.js:152
-msgid "{0, plural, one {# participant will be e-mailed:} other {# participants will be e-mailed:}}"
+msgid ""
+"{0, plural, one {# participant will be e-mailed:} other {# participants will "
+"be e-mailed:}}"
 msgstr ""
 
-#: src/components/ParticipantTable.js:63
-#: src/components/RecipientList.js:60
+#: src/components/ParticipantTable.js:63 src/components/RecipientList.js:60
 msgid "{0, plural, one {+# more} other {+# more}}"
 msgstr ""
 
 #: src/components/NewdlesParticipating.js:109
-msgid "{0, plural, one {You replied with # timeslot} other {You replied with # timeslots}}"
+msgid ""
+"{0, plural, one {You replied with # timeslot} other {You replied with # "
+"timeslots}}"
 msgstr ""
 
 #: src/components/MyNewdles.js:107
-msgid "{0, plural, one {{1} out of # participant answered} other {{2} out of # participants answered}}"
+msgid ""
+"{0, plural, one {{1} out of # participant answered} other {{2} out of # "
+"participants answered}}"
 msgstr ""
 
 #: src/components/summary/SummaryPage.js:171
@@ -460,7 +477,9 @@ msgid "{0} will take place on:"
 msgstr ""
 
 #: src/components/ParticipantTable.js:152
-msgid "{availableCount, plural, one {# available participant} other {# available participants}}"
+msgid ""
+"{availableCount, plural, one {# available participant} other {# available "
+"participants}}"
 msgstr ""
 
 #: src/components/creation/timeslots/DurationPicker.js:23
@@ -472,11 +491,15 @@ msgid "{hours}h {minutes}min"
 msgstr ""
 
 #: src/components/creation/timeslots/TimeslotsStep.js:21
-msgid "{numSlots, plural, one {<0>#</0> slot added} other {<1>#</1> slots added} =0 {You haven't added any slots yet}}"
+msgid ""
+"{numSlots, plural, one {<0>#</0> slot added} other {<1>#</1> slots added} =0 "
+"{You haven't added any slots yet}}"
 msgstr ""
 
 #: src/components/answer/AnswerPage.js:306
-msgid "{numberOfTimeslots, plural, one {{numberOfAvailable} out of # option chosen} other {{numberOfAvailable} out of # options chosen}}"
+msgid ""
+"{numberOfTimeslots, plural, one {{numberOfAvailable} out of # option chosen} "
+"other {{numberOfAvailable} out of # options chosen}}"
 msgstr ""
 
 #: src/components/common/FinalDate.js:12

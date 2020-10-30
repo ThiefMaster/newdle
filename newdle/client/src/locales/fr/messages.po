@@ -3,14 +3,14 @@ msgstr ""
 "POT-Creation-Date: 2020-10-29 17:38+0100\n"
 "PO-Revision-Date: 2020-10-30 14:31+0000\n"
 "Last-Translator: Thomas Baron <thomas.baron@cern.ch>\n"
-"Language-Team: French <https://hosted.weblate.org/projects/newdle/client/fr/>"
-"\n"
+"Language-Team: French <https://hosted.weblate.org/projects/newdle/client/fr/"
+">\n"
 "Language: fr\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 4.3.2-dev\n"
-"Mime-Version: 1.0\n"
 
 #: src/components/home/HomeHeader.js:11
 msgid "<0>newdle</0> is a collective meeting scheduling application."
@@ -134,7 +134,9 @@ msgid "Delete this newdle"
 msgstr "Supprimer ce newdle"
 
 #: src/components/summary/SummaryPage.js:264
-msgid "Do you really wish to delete this newdle? Please be aware that <0>this action cannot be undone.</0>"
+msgid ""
+"Do you really wish to delete this newdle? Please be aware that <0>this "
+"action cannot be undone.</0>"
 msgstr ""
 "Voulez-vous vraiment supprimer ce newdle ? Veuillez noter que cette action "
 "<0>ne peut pas être annulée.</0>"
@@ -266,7 +268,9 @@ msgid "Nobody has voted yet."
 msgstr "Personne n'a encore voté."
 
 #: src/components/summary/SummaryPage.js:124
-msgid "Note that some of your participants did not provide an email address and thus could not be notified!"
+msgid ""
+"Note that some of your participants did not provide an email address and "
+"thus could not be notified!"
 msgstr ""
 "Veuillez noter que certains participants n'ont pas fourni d'adresse mail et "
 "n'ont donc pas pu être notifiés !"
@@ -276,7 +280,9 @@ msgid "Notify me about new answers"
 msgstr "M'informer des nouvelles réponses"
 
 #: src/components/creation/FinalStep.js:82
-msgid "Once the newdle is created, you will be shown a link which you need to send to anyone you wish to invite."
+msgid ""
+"Once the newdle is created, you will be shown a link which you need to send "
+"to anyone you wish to invite."
 msgstr ""
 "Une fois le newdle créé, un lien vous sera indiqué que vous devrez envoyer à "
 "toutes les personnes que vous souhaitez inviter."
@@ -319,12 +325,16 @@ msgstr "Passer"
 
 #: src/components/summary/SummaryPage.js:144
 #: src/components/summary/SummaryPage.js:287
-msgid "Some of your participants do not have e-mail addresses and will not be contacted:"
+msgid ""
+"Some of your participants do not have e-mail addresses and will not be "
+"contacted:"
 msgstr ""
 "Certains participants n'ont pas d'adresse mail et ne seront pas contactés :"
 
 #: src/components/summary/SummaryPage.js:112
-msgid "Something when wrong when notifying participants:"
+#, fuzzy
+#| msgid "Something when wrong when notifying participants:"
+msgid "Something went wrong when notifying participants:"
 msgstr "Une erreur est advenue lors de la notification des participants :"
 
 #: src/components/summary/SummaryPage.js:221
@@ -335,8 +345,7 @@ msgstr "Les participants suivants n'ont pas encore voté :"
 msgid "The participants have been notified of the final date."
 msgstr "Les participants ont été informés de la date finale."
 
-#: src/components/MyNewdles.js:105
-#: src/components/ParticipantTable.js:90
+#: src/components/MyNewdles.js:105 src/components/ParticipantTable.js:90
 msgid "There are no participants yet."
 msgstr "Il n'y a pas encore de participants."
 
@@ -344,8 +353,7 @@ msgstr "Il n'y a pas encore de participants."
 msgid "They will be presented as options to the participants"
 msgstr "Ils seront présentés comme des options aux participants"
 
-#: src/components/NewdleTitle.js:44
-#: src/components/answer/AnswerPage.js:204
+#: src/components/NewdleTitle.js:44 src/components/answer/AnswerPage.js:204
 msgid "This newdle has already finished"
 msgstr "Ce newdle est terminé"
 
@@ -383,7 +391,8 @@ msgid "You are not part of any newdles yet."
 msgstr "Vous ne participez à aucun newdle."
 
 #: src/components/creation/CreationHeader.js:15
-msgid "You can also \"Skip\" this step and simply share the link to your newdle"
+msgid ""
+"You can also \"Skip\" this step and simply share the link to your newdle"
 msgstr ""
 "Vous pouvez également \"Passer\" cette étape et simplement partager le lien "
 "vers votre newdle"
@@ -403,20 +412,31 @@ msgid "Your answer has been saved!"
 msgstr "Votre réponse est sauvegardée !"
 
 #: src/components/creation/CreationSuccessPage.js:35
-msgid "Your newdle was created and invitation e-mails have been sent. You can send the following link to everyone you would like to invite:"
+msgid ""
+"Your newdle was created and invitation e-mails have been sent. You can send "
+"the following link to everyone you would like to invite:"
 msgstr ""
 "Votre newdle a été créé et des courriels d'invitation ont été envoyés. Vous "
 "pouvez envoyer le lien suivant aux personnes supplémentaires que vous "
 "souhaitez inviter :"
 
 #: src/components/creation/CreationSuccessPage.js:42
-msgid "Your newdle was created. You can now send the following to everyone you would like to invite:"
+#, fuzzy
+#| msgid ""
+#| "Your newdle was created. You can now send the following to everyone you "
+#| "would like to invite:"
+msgid ""
+"Your newdle was created. You can now send the following link to everyone you "
+"would like to invite:"
 msgstr ""
 "Votre newdle a été créé. Vous pouvez envoyer le lien suivant aux personnes "
 "que vous souhaitez inviter :"
 
 #: src/components/creation/FinalStep.js:74
-msgid "Your participants will receive an e-mail asking them to register to their preference. Once the newdle is created, you will be shown a link you can share with anyone else you wish to invite."
+msgid ""
+"Your participants will receive an e-mail asking them to register to their "
+"preference. Once the newdle is created, you will be shown a link you can "
+"share with anyone else you wish to invite."
 msgstr ""
 "Vos participants recevront un courriel les invitant à enregistrer leur "
 "préférence. Une fois le newdle créé, vous obtiendrez aussi un lien que vous "
@@ -431,8 +451,7 @@ msgstr "Votre session a expiré"
 msgid "by {author}"
 msgstr "par {author}"
 
-#: src/components/MyNewdles.js:83
-#: src/components/NewdlesParticipating.js:83
+#: src/components/MyNewdles.js:83 src/components/NewdlesParticipating.js:83
 msgid "finished"
 msgstr "terminé"
 
@@ -444,8 +463,7 @@ msgstr "newdle est un Logiciel Open Source"
 msgid "newdle logo"
 msgstr "logo newdle"
 
-#: src/components/MyNewdles.js:83
-#: src/components/NewdlesParticipating.js:83
+#: src/components/MyNewdles.js:83 src/components/NewdlesParticipating.js:83
 msgid "ongoing"
 msgstr "en cours"
 
@@ -458,24 +476,29 @@ msgid "switch back to the <0>{defaultUserTz}</0> timezone"
 msgstr "retourner au fuseau horaire <0>{defaultUserTz}</0>"
 
 #: src/components/summary/SummaryPage.js:152
-msgid "{0, plural, one {# participant will be e-mailed:} other {# participants will be e-mailed:}}"
+msgid ""
+"{0, plural, one {# participant will be e-mailed:} other {# participants will "
+"be e-mailed:}}"
 msgstr ""
 "{0, plural, one {# participant recevra un courriel:} other {# participants "
 "recevront un courriel:}}"
 
-#: src/components/ParticipantTable.js:63
-#: src/components/RecipientList.js:60
+#: src/components/ParticipantTable.js:63 src/components/RecipientList.js:60
 msgid "{0, plural, one {+# more} other {+# more}}"
 msgstr "{0, plural, one {+# de plus} other {+# de plus}}"
 
 #: src/components/NewdlesParticipating.js:109
-msgid "{0, plural, one {You replied with # timeslot} other {You replied with # timeslots}}"
+msgid ""
+"{0, plural, one {You replied with # timeslot} other {You replied with # "
+"timeslots}}"
 msgstr ""
 "{0, plural, one {Vous avez répondu avec # créneau horaire} other {Vous avez "
 "répondu avec # fuseaux horaires}}"
 
 #: src/components/MyNewdles.js:107
-msgid "{0, plural, one {{1} out of # participant answered} other {{2} out of # participants answered}}"
+msgid ""
+"{0, plural, one {{1} out of # participant answered} other {{2} out of # "
+"participants answered}}"
 msgstr ""
 "{0, plural, one {{1} sur # participant a répondu} other {{2} sur # "
 "participants ont répondu}}"
@@ -485,7 +508,9 @@ msgid "{0} will take place on:"
 msgstr "{0} aura lieu le :"
 
 #: src/components/ParticipantTable.js:152
-msgid "{availableCount, plural, one {# available participant} other {# available participants}}"
+msgid ""
+"{availableCount, plural, one {# available participant} other {# available "
+"participants}}"
 msgstr ""
 "{availableCount, plural, one {# participant disponible} other {# "
 "participants disponibles}}"
@@ -499,13 +524,17 @@ msgid "{hours}h {minutes}min"
 msgstr "{hours}h {minutes}mn"
 
 #: src/components/creation/timeslots/TimeslotsStep.js:21
-msgid "{numSlots, plural, one {<0>#</0> slot added} other {<1>#</1> slots added} =0 {You haven't added any slots yet}}"
+msgid ""
+"{numSlots, plural, one {<0>#</0> slot added} other {<1>#</1> slots added} =0 "
+"{You haven't added any slots yet}}"
 msgstr ""
 "{numSlots, plural, one {<0>#</0> créneau ajouté} other {<1>#</1> créneaux "
 "ajoutés} =0 {Vous n'avez pas encore ajouté de créneau}}"
 
 #: src/components/answer/AnswerPage.js:306
-msgid "{numberOfTimeslots, plural, one {{numberOfAvailable} out of # option chosen} other {{numberOfAvailable} out of # options chosen}}"
+msgid ""
+"{numberOfTimeslots, plural, one {{numberOfAvailable} out of # option chosen} "
+"other {{numberOfAvailable} out of # options chosen}}"
 msgstr ""
 "{numberOfTimeslots, plural, one {{numberOfAvailable} sur # option "
 "sélectionnée} other {{numberOfAvailable} sur # options sélectionnées}}"
