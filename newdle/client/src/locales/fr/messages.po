@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-10-29 17:38+0100\n"
-"PO-Revision-Date: 2020-10-30 15:43+0000\n"
+"PO-Revision-Date: 2020-10-30 15:59+0000\n"
 "Last-Translator: Thomas Baron <thomas.baron@cern.ch>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/newdle/client/fr/>"
 "\n"
@@ -455,7 +455,7 @@ msgstr "terminé"
 
 #: src/components/home/HomePage.js:61
 msgid "newdle is Open Source Software"
-msgstr "newdle est un Logiciel Open Source"
+msgstr "newdle est un logiciel Open Source"
 
 #: src/components/TopHeader.js:21
 msgid "newdle logo"
@@ -491,7 +491,7 @@ msgid ""
 "timeslots}}"
 msgstr ""
 "{0, plural, one {Vous avez répondu avec # créneau horaire} other {Vous avez "
-"répondu avec # fuseaux horaires}}"
+"répondu avec # créneaux horaires}}"
 
 #: src/components/MyNewdles.js:107
 msgid ""
