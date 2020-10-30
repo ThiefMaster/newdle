@@ -352,6 +352,10 @@ msgstr ""
 msgid "Update your answer"
 msgstr ""
 
+#: src/components/NewdleTitle.js:58
+msgid "View summary"
+msgstr ""
+
 #: src/components/creation/CreationHeader.js:23
 msgid "We are almost there!"
 msgstr ""

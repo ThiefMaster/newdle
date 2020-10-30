@@ -55,7 +55,7 @@ export default function NewdleTitle({
                 }
               />
               <Popup
-                content="View summary"
+                content={t`View summary`}
                 position="bottom center"
                 trigger={
                   <Button
