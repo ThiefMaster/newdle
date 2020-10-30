@@ -71,6 +71,7 @@
     "sourceLocale": "en",
     "locales": [
       "en",
+      "fr",
       "es"
     ],
     "compileNamespace": "es"

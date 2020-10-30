@@ -1,14 +1,17 @@
 import {i18n} from '@lingui/core';
-import {en as pluralsEN, es as pluralsES} from 'make-plural/plurals';
+import {en as pluralsEN, fr as pluralsFR, es as pluralsES} from 'make-plural/plurals';
 import {messages as messagesEN} from '../locales/en/messages';
 import {messages as messagesES} from '../locales/es/messages';
+import {messages as messagesFR} from '../locales/fr/messages';
 
 i18n.loadLocaleData({
   en: {plurals: pluralsEN},
+  fr: {plurals: pluralsFR},
   es: {plurals: pluralsES},
 });
 i18n.load({
   en: messagesEN,
+  fr: messagesFR,
   es: messagesES,
 });
 i18n.activate(getInitialLanguage());
@@ -27,5 +30,5 @@ function getInitialLanguage() {
 }
 
 export function getLanguageOptions() {
-  return {en: 'English', es: 'Spanish'};
+  return {en: 'English', fr: 'French', es: 'Spanish'};
 }
