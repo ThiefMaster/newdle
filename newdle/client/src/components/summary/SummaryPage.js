@@ -270,7 +270,7 @@ export default function SummaryPage() {
                   <Checkbox
                     checked={sendDeletionMail}
                     onChange={() => setSendDeletionMail(!sendDeletionMail)}
-                    label="Notify the participants via e-mail"
+                    label={t`Notify the participants via e-mail`}
                   />
                   {sendDeletionMail && (
                     <Input

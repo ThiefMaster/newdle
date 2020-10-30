@@ -264,6 +264,10 @@ msgstr ""
 msgid "Notify me about new answers"
 msgstr ""
 
+#: src/components/summary/SummaryPage.js:273
+msgid "Notify the participants via e-mail"
+msgstr ""
+
 #: src/components/creation/FinalStep.js:82
 msgid "Once the newdle is created, you will be shown a link which you need to send to anyone you wish to invite."
 msgstr ""
