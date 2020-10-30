@@ -40,8 +40,8 @@ export default function CreationSuccessPage() {
         ) : (
           <p>
             <Trans>
-              Your newdle was created. You can now send the following to everyone you would like to
-              invite:
+              Your newdle was created. You can now send the following link to everyone you would
+              like to invite:
             </Trans>
           </p>
         )}

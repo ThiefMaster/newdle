@@ -396,7 +396,7 @@ msgid "Your newdle was created and invitation e-mails have been sent. You can se
 msgstr ""
 
 #: src/components/creation/CreationSuccessPage.js:42
-msgid "Your newdle was created. You can now send the following to everyone you would like to invite:"
+msgid "Your newdle was created. You can now send the following link to everyone you would like to invite:"
 msgstr ""
 
 #: src/components/creation/FinalStep.js:74
