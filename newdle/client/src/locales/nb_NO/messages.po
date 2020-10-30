@@ -502,8 +502,8 @@ msgstr ""
 
 #: src/components/answer/AnswerPage.js:306
 msgid ""
-"{numberOfTimeslots, plural, one {{numberOfAvailable} out of # option chosen} "
-"other {{numberOfAvailable} out of # options chosen}}"
+"{numberOfAvailable, plural, one {# option out of {numberOfTimeslots} chosen} "
+"other {# options out of {numberOfTimeslots} chosen}}"
 msgstr ""
 
 #: src/components/common/FinalDate.js:12
